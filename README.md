@@ -1,15 +1,16 @@
-<h1 align="center">Bello, I'm Channie 👽</h1>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhjYWNoNmgza3FsaTFqZjM3MnlkZmU4MWV2bmczajhhcDdtaDhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0TthRgBtAoMA12kx7h/giphy.webp" alt="Adventure Time">
+</div>
+<h1 align="center">Bello, I'm Channie! </h1>
 <h3 align="center">A Data Scientist from Vietnam</h3>
 
-- 🌱 I’m currently learning **A Bachelor's Degree in Business Data Analytics**
+- 👽 I’m currently learning **A Bachelor's Degree in Business Data Analytics** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Channie1107](https://github.com/Channie1107)
+- 👽 All of my projects are available at [https://github.com/Channie1107](https://github.com/Channie1107)
 
-- 💬 Ask me about **Python, SQL, ...**
+- 👽 Ask me about **Python, SQL, ...**
 
-- 📫 How to reach me **22070748@vnu.edu.vn**
-
-- ⚡ Fun fact **I think i'm an alien 👽**
+- 👽 How to reach me **22070748@vnu.edu.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
