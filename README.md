@@ -3,8 +3,9 @@
 </div>
 <h1 align="center">Bello, I'm Channie! </h1>
 <h3 align="center">A Data Scientist from Vietnam</h3>
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV0NzFmaW13aWZoeDhvcnF5cGpwNnhsZDhkY2YwN2I5MGVyY2VsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/32aU4Taobf9YgxRCqq/giphy.webp"  />
 
-- 👽 I’m currently learning **A Bachelor's Degree in Business Data Analytics** 
+- 👽 I’m currently learning **A Bachelor's Degree in Business Data Analytics**
 
 - 👽 All of my projects are available at [https://github.com/Channie1107](https://github.com/Channie1107)
 
