@@ -5,9 +5,12 @@
     width="1000"
   >
 </div>
-<h1 align="center">Bello, I'm Channie! </h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=4000&pause=300&color=1A5DAB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Bello%2C+I'm+Channie!" width="70%" />
+</div>
 <h3 align="center">A Data Scientist from Vietnam</h3>
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRvODgwemE4cDYzbWJyZzJ1cXMwOHZwaGh3bHNqanFzdmlnajVtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aLI73eIgT41b2/giphy.webp"  />
+</div>
 
 - 👽 I’m currently learning **A Bachelor's Degree in Business Data Analytics**
 
@@ -28,4 +31,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=channie1107&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=channie1107&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=channie1107&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
