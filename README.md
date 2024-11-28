@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhjYWNoNmgza3FsaTFqZjM3MnlkZmU4MWV2bmczajhhcDdtaDhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0TthRgBtAoMA12kx7h/giphy.webp" alt="Adventure Time">
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhjYWNoNmgza3FsaTFqZjM3MnlkZmU4MWV2bmczajhhcDdtaDhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0TthRgBtAoMA12kx7h/giphy.webp" 
+    alt="Adventure Time" 
+    width="1000"
+  >
 </div>
 <h1 align="center">Bello, I'm Channie! </h1>
 <h3 align="center">A Data Scientist from Vietnam</h3>
